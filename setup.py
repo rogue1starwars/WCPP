@@ -13,7 +13,6 @@ setup(
     version="1.0.0",
     install_requires=[
         "crc",
-        "pytest",
     ],
     packages=["wcpp"],
     package_dir={"wcpp": "wcpp"},
