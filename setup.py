@@ -15,5 +15,5 @@ setup(
         "crc",
     ],
     packages=["wcpp"],
-    package_dir={"wcpp": "wcpp"},
+    package_dir={"wcpp": "python"},
 )
