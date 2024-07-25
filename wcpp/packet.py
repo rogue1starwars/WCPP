@@ -1,7 +1,9 @@
 import struct
 from enum import IntEnum
 from typing import List, Optional
+
 from crc import Calculator, Crc8
+
 
 class Entry:
 
